@@ -1,5 +1,5 @@
 
-* TODO Modify some shell to add a rfork keyword (easy path: rc)
+* TODO Modify some shell to add a rfork keyword with namespace powers (easy path: rc)
 ** TODO Create a table comparison of plan9 and linux fork/clone arguments (RFNAMEG, RFCNAMEG, etc, vs CLONE_NEWNS, CLONE_NEWUTS, etc).
 ** TODO Discuss some of the ideas with community?
 * TODO Verify if linux network namespace can be used in the same way as plan9 /net
