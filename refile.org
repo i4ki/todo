@@ -1,0 +1,8 @@
+
+* TODO Modify some shell to add a rfork keyword (easy path: rc)
+** TODO Create a table comparison of plan9 and linux fork/clone arguments (RFNAMEG, RFCNAMEG, etc, vs CLONE_NEWNS, CLONE_NEWUTS, etc).
+** TODO Discuss some of the ideas with community?
+* TODO Verify if linux network namespace can be used in the same way as plan9 /net
+* TODO Debug the Xen/Plan9 bug of jumpy mouse for my SynPS/2 touchpad.
+* TODO Create the Plan9 Qubes HVM
+* TODO Learn the Qubes OS stuff for AppVMs
